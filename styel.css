@@ -1,0 +1,7 @@
+h1{
+    background-color: green;
+  }
+  p{
+    background: #ffffff url("img_tree.png") no-repeat right top;
+    margin-right: 200px;
+  }
